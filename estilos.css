@@ -286,6 +286,9 @@ nav .enlaces a:hover{
     background: url(imagenes/pexels-rodnae-productions-6724316.jpg);
     height: auto;
 }
+.about h4, .about p, .servicios>h4, .caja-servicios>p {
+    color: #fff;
+}
 
 .servicios{
     display: flex;
@@ -368,6 +371,12 @@ footer{
     background: url(imagenes/pexels-rebecca-5566050.jpg);
     background-size: cover;
     background-position:top;
+}
+footer img, .about img{
+    opacity: 0.4;
+}
+.contenedor img{
+    opacity: 1;
 }
 
 .marca-logo{
