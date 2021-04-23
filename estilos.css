@@ -176,7 +176,7 @@ nav .enlaces a{
 }
 
 nav .enlaces a:hover{
-    border-bottom: 3px solid #saddlebrown;
+    border-bottom: 3px solid saddlebrown;
     transition: 0.6s;
 }
 
